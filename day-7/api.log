@@ -1,0 +1,18 @@
+2026-02-21 20:30:38,554 - main - INFO - Health check called
+2026-02-21 20:30:57,329 - main - INFO - Health check called
+2026-02-21 20:33:28,484 - main - INFO - Received chat request: hi...
+2026-02-21 20:33:30,972 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 20:33:31,247 - main - INFO - Chat successful. Tokens used: 52
+2026-02-21 20:34:32,530 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 20:34:32,533 - main - INFO - Chat successful. Tokens used: 567
+2026-02-21 20:35:51,167 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 20:35:51,168 - main - INFO - Explanation successful. Tokens used: 344
+2026-02-21 20:36:10,776 - main - INFO - Health check called
+2026-02-21 21:02:20,324 - main - INFO - Health check called
+2026-02-21 21:02:54,215 - main - INFO - Received chat request: hello...
+2026-02-21 21:02:57,719 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 21:02:57,757 - main - INFO - Chat successful. Tokens used: 52
+2026-02-21 21:05:24,468 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 21:05:24,471 - main - INFO - Chat successful. Tokens used: 542
+2026-02-21 21:06:24,967 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 21:06:24,970 - main - INFO - Explanation successful. Tokens used: 355
