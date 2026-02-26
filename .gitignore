@@ -5,4 +5,5 @@ __pycache__/
 
 *.mp4
 *.mov
-day-9/venv/
+*/venv/
+*/venv/
