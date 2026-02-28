@@ -7,3 +7,8 @@ __pycache__/
 *.mov
 */venv/
 */.env/
+
+# Generated ML files
+day-11/faiss_index/
+day-11/models/
+day-9/chromadb_books/
