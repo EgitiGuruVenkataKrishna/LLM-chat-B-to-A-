@@ -386,8 +386,8 @@ Feel free to use this project for:
 
 **Guru Venkata Krishna**
 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/guru-venkata-krishna-egit)
-- 🐙 GitHub: [@yourusername](https://github.com/EgitiGuruVankataKrishna)
+- 💼 LinkedIn: [linkedin.com/in/guru-venkata-krishna-egit](https://linkedin.com/in/guru-venkata-krishna-egit)
+- 🐙 GitHub: [@EgitiGuruVankataKrishna](https://github.com/EgitiGuruVankataKrishna)
 - 📧 Email: yegitigvkrishna@gmail.com
 
 **Built with:** ☕ Coffee and 🎵 Lo-fi beats
