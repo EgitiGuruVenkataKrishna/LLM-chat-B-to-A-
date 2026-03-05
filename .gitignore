@@ -1,27 +1,27 @@
+# Generic Python & Environment
 .env
-
 .venv/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
 *.mp4
 *.mov
-week-2/**/venv/
 */.env/
+*/venv/
+**/*venv/
 
-# Generated ML files
-day-11/faiss_index/
-day-11/models/
-day-9/chromadb_books/
+# Updated Project Structure (Covers week-1, week-2, ..., week-n)
+week-*/day-*/faiss_index/
+week-*/day-*/models/
+week-*/day-*/chromadb_books/
+
+# Generic Data & Build Folders
 chroma_data/
 uploaded_files/
-
 .DS_Store
 Thumbs.db
 *.log
-
 .cache/
 dist/
 build/
