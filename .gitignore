@@ -8,7 +8,7 @@ __pycache__/
 
 *.mp4
 *.mov
-*/venv/
+week-2/**/venv/
 */.env/
 
 # Generated ML files
