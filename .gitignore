@@ -1,27 +1,67 @@
-# Generic Python & Environment
-.env
-.venv/
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.mp4
-*.mov
-*/.env/
-*/venv/
-**/*venv/
+.Python
+*.so
 
-# Updated Project Structure (Covers week-1, week-2, ..., week-n)
-week-*/day-*/faiss_index/
-week-*/day-*/models/
-week-*/day-*/chromadb_books/
+# Virtual Environment - MOST IMPORTANT!
+venv/
+env/
+ENV/
+Scripts/
+Lib/
+Include/
+pyvenv.cfg
+pip-selfcheck.json
 
-# Generic Data & Build Folders
-chroma_data/
-uploaded_files/
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment Variables
+.env
+.env.local
+
+# OS
 .DS_Store
 Thumbs.db
+
+# ChromaDB & Databases
+chroma_data/
+*.sqlite3
+chomadb_books/
+
+# Large Model Files
+models/
+*.safetensors
+*.bin
+
+# FAISS Indexes
+faiss_index/
+
+# Uploaded Files (but keep code)
+uploaded_files/
+
+# Logs
+logs/
 *.log
-.cache/
-dist/
-build/
+
+# Test Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary
+*.tmp
+temp/
+tmp/
+
+# DON'T ignore these (common mistake):
+# !*.py
+# !*.md
+# !*.txt
+# !*.png (if you want screenshots)
