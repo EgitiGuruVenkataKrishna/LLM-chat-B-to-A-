@@ -60,8 +60,4 @@ htmlcov/
 temp/
 tmp/
 
-# DON'T ignore these (common mistake):
-# !*.py
-# !*.md
-# !*.txt
-# !*.png (if you want screenshots)
+*.mp4

@@ -1,0 +1,15 @@
+# Day 17: Structured Logging & Request Tracking
+# Required packages for logging demonstration
+
+# FastAPI
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# Data Validation
+pydantic==2.6.0
+
+# Structured Logging
+python-json-logger==2.0.7
+
+# System Monitoring (optional)
+psutil==5.9.8
